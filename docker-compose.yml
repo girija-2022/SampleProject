@@ -1,3 +1,5 @@
+
+#this file is there for docker image running not for the sonar workflow
 version: '3'
 services:
   mysqldb:
